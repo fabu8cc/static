@@ -17,7 +17,7 @@ document.write("<div class=\"links-top\">");
 document.write("<ul>");
 document.write("<li><a href=\"https:\/\/app.highgg.com?agentId=13694519\" target=\"_blank\"><img src=\"http:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E5%BF%AB%E7%8C%AB.jpg\"><br><span>快猫<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/cmdhwb.com\/?dc=rga00439\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E9%BA%BB%E8%B1%86.png\"><br><span>麻豆传媒<\/span><\/a><\/li>");
-document.write("<li><a href=\"https:\/\/blqd01.com\/?dc=bsqa6\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E9%80%BC%E5%93%A9.png\"><br><span>逼哩逼哩<\/span><\/a><\/li>");
+document.write("<li><a href=\"https:\/\/rterdjklm.com\/?dc=bsqa6\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E9%80%BC%E5%93%A9.png\"><br><span>逼哩逼哩<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/rterdjklm.com\/?dc=bsqa6\" target=\"_blank\"><img src=\"http:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E8%8C%B6%E9%A6%86%E5%BE%AE%E4%BF%A1%E7%BA%A6%E7%82%AE.gif\"><br><span>日女<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/xb19.me\/?_c=tangt1xb\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E5%A6%BB%E5%8F%8B.jpg\"><br><span>杏吧<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/dsp.soupenggame.com\/chan-1884\/aff-fHWQY\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E6%88%90%E4%BA%BA%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91.png\"><br><span>成人抖音视频<\/span><\/a><\/li>");
@@ -29,9 +29,9 @@ document.write("<li><a href=\"https:\/\/didi.soupenggame.com\/chan-1705\/aff-8HA
 document.write("<li><a href=\"https:\/\/cg.soupenggame.com\/?code=ZMNF&c=2717\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E8%8C%B6%E9%A6%86%E5%BE%AE%E4%BF%A1%E7%BA%A6%E7%82%AE.gif\"><br><span>茶馆微信约炮<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/mv.soupenggame.com\/chan-1807\/aff-bJsQs\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/91Porn%E9%87%91%E5%B8%81%E7%A0%B4%E8%A7%A3%E7%89%88.png\"><br><span>91Porn金币破解版<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/ttt.wtfxx.org\/chan\/a11350\/aDU8X\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E6%B1%A4%E5%A4%B4%E6%9D%A1.png\"><br><span>汤头条<\/span><\/a><\/li>");
-document.write("<li><a href=\"https:\/\/ttt.soupenggame.com\/chan\/a11350\/aDU8X\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%E6%88%90%E4%BA%BA%E7%89%88.gif\"><br><span>今日头条成人版<\/span><\/a><\/li>");
-document.write("<li><a href=\"https:\/\/zpc.soupenggame.com\/chan-1527\/aff-gCSU\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/91%E5%88%B6%E7%89%87%E5%8E%82.png\"><br><span>91制片厂<\/span><\/a><\/li>");
-document.write("<li><a href=\"https:\/\/sir.soupenggame.com\/c-2717\/a-a38Ng\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E6%92%B8%E5%85%88%E7%94%9F.png\"><br><span>撸先生<\/span><\/a><\/li>");
+document.write("<li><a href=\"https:\/\/pfldyshr.com?dc=TANT\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E6%B3%A1%E8%8A%99%E7%9F%AD%E8%A7%86%E9%A2%91.jpg\"><br><span>泡芙短视频<\/span><\/a><\/li>");
+document.write("<li><a href=\"https:\/\/91ycp.live?dc=TANT\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/91%E7%BA%A6%E7%82%AE.png\"><br><span>91约炮<\/span><\/a><\/li>");
+document.write("<li><a href=\"https:\/\/seiseas.com\/?dc=TANT\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/%E8%89%B2%E4%B8%AD%E8%89%B2.png\"><br><span>色中色<\/span><\/a><\/li>");
 document.write("<li><a href=\"https:\/\/51mh046.com\/?_c=octt9mh\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/51%E6%BC%AB%E7%94%BB.png\"><br><span>漫画<\/span><\/a><\/li>");
 
 document.write("<li><a href=\"https:\/\/9y03.me\/?code=&channel=bm740621\" target=\"_blank\"><img src=\"https:\/\/cdn.jsdelivr.net\/gh\/fabu8cc\/static\/9%E5%8F%8B.jpg\"><br><span>9友<\/span><\/a><\/li>");
